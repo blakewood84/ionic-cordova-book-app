@@ -1,0 +1,24 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+.container {
+  padding:40px;
+}
+.header{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height:33.3%;
+}
+.body{
+  height:33.3%;
+}
+.footer{
+  display:flex;
+  justify-content: center;
+  height:33.3%;
+  flex-direction: column;
+  align-items: center;
+}
